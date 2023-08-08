@@ -1,5 +1,5 @@
-# Date: 12/29/2018
-# Author: Mohamed
+# Date: 09/09/2023
+# Author: https://instagram.com/badriana_badru87?igshid=NTc4MTIwNjQ2YQ==
 # Description: Instagram bruter
 
 # from lib.proxy import Proxy
